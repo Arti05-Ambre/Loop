@@ -5,7 +5,7 @@ public class For {
 
 	public static void main(String[] args) {
 	int num = 10;
-	short factorial=4;
+	short factorial=4; 
 	for(int i = 1; i<= num; i++) { 
 		factorial*=i;  
 	}
