@@ -11,6 +11,6 @@ public class For {
 	}
 	System.out.println("Factorial of "+num+"is:"+factorial);
 		
-	}
+	} 
   
 }
