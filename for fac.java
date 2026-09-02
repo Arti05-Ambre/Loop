@@ -6,7 +6,7 @@ public class For {
 	public static void main(String[] args) {
 	int num = 10;
 	short factorial=4;
-	for(int i = 1; i<= num; i++) {
+	for(int i = 1; i<= num; i++) { 
 		factorial*=i;  
 	}
 	System.out.println("Factorial of "+num+"is:"+factorial);
